@@ -1,0 +1,15 @@
+[submodule "tetnp"]
+	path = tetnp
+	url = git@github.com:cambridge-mlg/tetnp.git
+[submodule "dpconvcnp"]
+	path = dpconvcnp
+	url = git@github.com:cambridge-mlg/dpconvcnp.git
+[submodule "gridded-tnp"]
+	path = gridded-tnp
+	url = git@github.com:cambridge-mlg/gridded-tnp.git
+[submodule "tnp"]
+	path = tnp
+	url = git@github.com:cambridge-mlg/tnp.git
+[submodule "convcnp"]
+	path = convcnp
+	url = git@github.com:cambridge-mlg/convcnp.git
